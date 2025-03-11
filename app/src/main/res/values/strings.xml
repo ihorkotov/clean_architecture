@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">MotoTablet</string>
+
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    // login
+    <string name="user_login">User Login</string>
+    <string name="user_name">UserName</string>
+    <string name="enter_user_name">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    
+    // forget password
+    <string name="forget_password_title">Forget Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email">Enter email</string>
+    <string name="send_password">Send password</string>
+    <string name="temporary_password_sent">Temporary password has been sent to your email address. Please check!</string>
+    
+    // job creation
+    <string name="pms">P.M.S.</string>
+    <string name="pms_description">Preventive Maintenance Schedule</string>
+    <string name="parts_installation">Parts Installation</string>
+
+    // pms
+    <string name="scooter">Scooter</string>
+    <string name="big_bikes">Big Bikes</string>
+    <string name="underbone">Underbone</string>
+
+    // package list
+    <string name="txt_package">Package</string>
+    <string name="available">Available</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="amount">Amount</string>
+    <string name="checkout">Checkout</string>
+    <string name="unavailable">Unavailable</string>
+
+    // checkout
+    <string name="customer_details">Customer Details</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="birthday">Birthday</string>
+    <string name="complete_address">Complete Address</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove">Remove</string>
+    <string name="customer_note">Customer\'s note</string>
+    <string name="labor">Labor</string>
+    <string name="place_order">Place Order</string>
+
+    // edit package
+    <string name="package_available_item_count_string">%d/%d %s</string>
+    <string name="update">Update</string>
+    <string name="cart_updated">The cart has been updated</string>
+    
+    // search product
+    <string name="products">Products</string>
+    <string name="search_item">Search Item</string>
+    <string name="search_motor_brand">Search Motor Brand</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="select_model">Select Model</string>
+    <string name="select_year">Select Year</string>
+    <string name="search">Search</string>
+    <string name="search_key_error_message">Type search item or select brand name</string>
+    
+    // search product result
+    <string name="search_result_for">Search result for</string>
+    <string name="sku">Sku</string>
+    <string name="product_name">Product Name</string>
+    <string name="qty">QTY</string>
+    <string name="price">Price</string>
+    <string name="actions">Actions</string>
+    <string name="add">Add</string>
+    
+    // product detail
+    <string name="available_stocks_for">Available stocks for</string>
+    <string name="location">Location</string>
+    
+    // customer profile
+    <string name="customer_profile">Customer Profile</string>
+    <string name="enter_first_name_last_name">Enter First Name and Last Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_birthdate">Enter Birthdate</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="enter_complete_address">Enter Complete Address</string>
+    <string name="i_agree_to_the">I agree to the</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="want_to_receive_market_promotions">I want to receive marketing and promotions</string>
+    <string name="save">Save</string>
+    <string name="birthdate">Birthdate</string>
+    
+    // job completed dialog
+    <string name="completed">completed</string>
+    <string name="job_order_sharp">Job Order #</string>
+    
+    // landing screen
+    <string name="plate">Plate #</string>
+    <string name="status">Status</string>
+    <string name="date_time">Date/Time</string>
+    <string name="ongoing">On-Going</string>
+    <string name="next_to_service">Next to Service</string>
+    <string name="done">Done</string>
+    <string name="view">View</string>
+    <string name="start">Start</string>
+    <string name="remove_job_alert_dialog_message">Are you sure you want to remove this Job Order?</string>
+    
+    // check list
+    <string name="check_list">Check List</string>
+    <string name="end">End</string>
+    <string name="enter_mechanic_code">Enter Mechanic Code</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="job_order">Job Order</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="signature_here">Signature Here</string>
+    
+    // search orders
+    <string name="job_orders">Job Orders</string>
+    <string name="logout">Logout</string>
+    <string name="search_jo_number_customer_name">SEARCH JO NUMBER or CUSTOMER NAME</string>
+    <string name="logout_alert_dialog_message">Are you sure you want to logout?</string>
+
+    <plurals name="items">
+        <item quantity="one">Item</item>
+        <item quantity="other">Items</item>
+    </plurals>
+
+</resources>
